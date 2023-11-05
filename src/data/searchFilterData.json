@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Category types",
+    "categories": [
+      { "id": 1, "category": "Tours" },
+      { "id": 2, "category": "Attractions" },
+      { "id": 3, "category": "Concert & Shows" }
+    ]
+  },
+  {
+    "label": "Other",
+    "categories": [{ "id": 1, "category": "Free cancellation" }]
+  },
+  { "label": "Price" },
+  {
+    "label": "Duration",
+    "categories": [
+      { "id": 1, "category": "Up to 4 hour" },
+      { "id": 2, "category": "4 to 12 hour" },
+      { "id": 3, "category": "12 hour to 1 day" }
+    ]
+  }
+]

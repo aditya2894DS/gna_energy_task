@@ -1,0 +1,313 @@
+[
+    {
+      "duration": 15,
+      "title": "Title 1",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2600,
+      "rating": 4,
+      "reviewCount": 65,
+      "freeCancel": false
+    },
+    {
+      "duration": 10,
+      "title": "Title 2",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2000,
+      "rating": 3.5,
+      "reviewCount": 67,
+      "freeCancel": false
+    },
+    {
+      "duration": 7,
+      "title": "Title 3",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2500,
+      "rating": 4,
+      "reviewCount": 89,
+      "freeCancel": false
+    },
+    {
+      "duration": 13,
+      "title": "Title 4",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 3100,
+      "rating": 5,
+      "reviewCount": 78,
+      "freeCancel": true
+    },
+    {
+      "duration": 15,
+      "title": "Title 5",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 200,
+      "rating": 4.5,
+      "reviewCount": 23,
+      "freeCancel": false
+    },
+    {
+      "duration": 12,
+      "title": "Title 6",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 3400,
+      "rating": 2,
+      "reviewCount": 89,
+      "freeCancel": false
+    },
+    {
+      "duration": 18,
+      "title": "Title 7",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 200,
+      "rating": 2.5,
+      "reviewCount": 34,
+      "freeCancel": true
+    },
+    {
+      "duration": 14,
+      "title": "Title 8",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2700,
+      "rating": 3.5,
+      "reviewCount": 45,
+      "freeCancel": false
+    },
+    {
+      "duration": 17,
+      "title": "Title 9",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2400,
+      "rating": 2,
+      "reviewCount": 67,
+      "freeCancel": false
+    },
+    {
+      "duration": 2,
+      "title": "Title 10",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 5000,
+      "rating": 1.5,
+      "reviewCount": 76,
+      "freeCancel": true
+    },
+    {
+      "duration": 2,
+      "title": "Title 11",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 4700,
+      "rating": 1,
+      "reviewCount": 22,
+      "freeCancel": false
+    },
+    {
+      "duration": 2.5,
+      "title": "Title 12",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 4500,
+      "rating": 3.5,
+      "reviewCount": 56,
+      "freeCancel": false
+    },
+    {
+      "duration": 3.5,
+      "title": "Title 13",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 3400,
+      "rating": 4.5,
+      "reviewCount": 32,
+      "freeCancel": false
+    },
+    {
+      "duration": 5,
+      "title": "Title 14",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2300,
+      "rating": 4.5,
+      "reviewCount": 33,
+      "freeCancel": true
+    },
+    {
+      "duration": 4,
+      "title": "Title 15",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2000,
+      "rating": 4,
+      "reviewCount": 87,
+      "freeCancel": true
+    },
+    {
+      "duration": 4,
+      "title": "Title 16",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 3100,
+      "rating": 4,
+      "reviewCount": 36,
+      "freeCancel": false
+    },
+    {
+      "duration": 7,
+      "title": "Title 17",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2100,
+      "rating": 4,
+      "reviewCount": 66,
+      "freeCancel": false
+    },
+    {
+      "duration": 12,
+      "title": "Title 18",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 3400,
+      "rating": 2.5,
+      "reviewCount": 23,
+      "freeCancel": false
+    },
+    {
+      "duration": 14,
+      "title": "Title 19",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 2000,
+      "rating": 3,
+      "reviewCount": 23,
+      "freeCancel": false
+    },
+    {
+      "duration": 3,
+      "title": "Title 20",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2000,
+      "rating": 3.5,
+      "reviewCount": 33,
+      "freeCancel": false
+    },
+    {
+      "duration": 3,
+      "title": "Title 21",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2600,
+      "rating": 4,
+      "reviewCount": 56,
+      "freeCancel": true
+    },
+    {
+      "duration": 4,
+      "title": "Title 22",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2500,
+      "rating": 2.5,
+      "reviewCount": 45,
+      "freeCancel": true
+    },
+    {
+      "duration": 4.5,
+      "title": "Title 23",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 2400,
+      "rating": 4,
+      "reviewCount": 24,
+      "freeCancel": false
+    },
+    {
+      "duration": 3.5,
+      "title": "Title 24",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 5000,
+      "rating": 4,
+      "reviewCount": 12,
+      "freeCancel": false
+    },
+    {
+      "duration": 10,
+      "title": "Title 24",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 4200,
+      "rating": 4,
+      "reviewCount": 24,
+      "freeCancel": false
+    },
+    {
+      "duration": 20,
+      "title": "Title 25",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 2300,
+      "rating": 3.5,
+      "reviewCount": 31,
+      "freeCancel": false
+    },
+    {
+      "duration": 21,
+      "title": "Title 26",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2000,
+      "rating": 4.5,
+      "reviewCount": 30,
+      "freeCancel": false
+    },
+    {
+      "duration": 13,
+      "title": "Title 27",
+      "city": "US City 1",
+      "category": "Tour",
+      "price": 3000,
+      "rating": 4,
+      "reviewCount": 28,
+      "freeCancel": false
+    },
+    {
+      "duration": 16,
+      "title": "Title 28",
+      "city": "US City 1",
+      "category": "C&S",
+      "price": 2500,
+      "rating": 2,
+      "reviewCount": 27,
+      "freeCancel": true
+    },
+    {
+      "duration": 17,
+      "title": "Title 29",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2200,
+      "rating": 2.5,
+      "reviewCount": 23,
+      "freeCancel": true
+    },
+    {
+      "duration": 10,
+      "title": "Title 30",
+      "city": "US City 1",
+      "category": "Attraction",
+      "price": 2300,
+      "rating": 4,
+      "reviewCount": 33,
+      "freeCancel": false
+    }
+  ]
+  

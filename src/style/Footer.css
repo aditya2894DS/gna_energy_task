@@ -1,0 +1,27 @@
+.footer-container{
+    padding: 2em 1em;
+    background-color: var(--site-blue);
+    display: flex;
+    justify-content: space-around;
+}
+.heading{
+    color: white;
+    margin-bottom: 1.5em;
+}
+
+.tollfree{
+    color: white;
+    font-size: 13px;
+    margin-bottom: 0.3em;
+}
+
+.tollfreeno{
+    margin-top: 0.3em;
+    color: var(--site-purple);
+    font-size: 20px;
+}
+
+.footer-p{
+    color: white;
+    font-size: 14px;
+}

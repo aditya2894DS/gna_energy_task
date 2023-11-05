@@ -1,0 +1,27 @@
+.searchfilter-container{
+    width: 15em;
+    margin: 2em 3em 2em 7em;
+
+}
+.subcat-container{
+    display: flex;
+}
+
+.cat-txt{
+    margin: 0.3em;
+}
+.category-list{
+    margin-left: 0.5em;
+}
+
+.price-range, .price-range-txt{
+    margin-left: 0.5em;
+}
+.item-label-txt{
+    margin: 0 0.5em 0.5em 0.5em;
+}
+
+hr:nth-of-type(4){
+    display: none;
+}
+

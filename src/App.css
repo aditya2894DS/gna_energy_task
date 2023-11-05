@@ -1,38 +1,108 @@
-.App {
-  text-align: center;
+:root {
+  --site-blue: #13357c;
+  --site-purple: #3355d3;
+  --site-yellow: #e9d469;
+  --text-green: #50C878;
+  --button-purple: #3355D1;
+  --grey: #77787c;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.border-red {
+  border: 1px solid red;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.flex-row {
+  display: flex;
+  flex-direction: row;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.justify-spbw {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.v-align-center {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+button{
+  cursor: pointer;
+}
+.text-input {
+  border: none;
+  padding: 1em 1em 1em 0;
+  border-bottom: 1px solid grey;
+}
+.text-input:focus {
+  outline: none;
+}
+.bold-txt{
+  font-weight: bold;
+}
+#close-icon-btn{
+  width: 12px;
+  height: 12px;
+  margin-top: 3px;
+  margin-left: 2px;
+  background-image: url("./assets/icons/close.svg");
+  background-size: cover;
+}
+
+.clickable-text{
+  color: blue;
+  cursor: pointer;
+}
+.clickable-text:hover{
+  text-decoration: underline;
+}
+
+/* modal styles */
+.modal {
+  /* display: none; */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+.modal-content {
+  border-radius: 5px;
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 51%; /* Could be more or less, depending on screen size */
+}
+.modal-header{
+  justify-content: right;
+}
+
+.modal-body {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.modal-footer{
+  padding: 1em 0;
+}
+
+.signin-btn{
+  border-radius: 5px;
+  align-self: center;
+  font-size: 13px;
+  padding: 1em 3em;
+  background-color: var(--site-blue);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  border: 1px solid white;
 }

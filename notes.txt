@@ -1,0 +1,38 @@
+Tour data 
+    --- Duration of tour
+    --- Title of tour   
+    --- City of tour    
+    --- Price of tour/ adult
+    --- Rating of tour
+    --- Review count of tour
+    --- Free cancellation 
+
+India tours = 40 -- 6 each page
+US tours = 30 -- 6 each page
+
+
+Categories 
+    --- Tours
+    --- Attraction
+    --- Concert & Shows
+
+ India tour 
+    --- 15 tours
+    --- 30 attractions
+    --- 15 c&S 
+
+US tours
+    --- 10 tours
+    --- 5 attractions
+    --- 15 c&s
+
+Duration 
+    --- 1-4hrs
+    --- 4-12 hrs
+    --- 12-24 hrs
+
+Price 
+    --- $0 - $5000
+
+Rating
+    --- 0 - 5 

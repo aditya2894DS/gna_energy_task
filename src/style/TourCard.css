@@ -1,0 +1,89 @@
+.tourcard-container {
+  border-bottom: 1px solid #f5f5f5;
+  padding: 1em;
+}
+
+.tourcard-container .image-container {
+  width: 15em;
+  height: 15em;
+  margin-right: 0.5em;
+}
+
+.duration-type-container > p {
+  margin: 0;
+}
+
+.duration-type-container .circle-separator {
+  width: 5px;
+  height: 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  margin: 0 0.3em;
+}
+
+.duration-type-container .dt-text,
+.city-txt {
+  color: var(--grey);
+  font-size: 11px;
+}
+
+.tour-title-txt {
+  font-weight: bold;
+  font-size: 21px;
+  margin: 0.2em 0;
+  max-width: 18em;
+}
+
+.free-cancel-txt {
+  color: var(--text-green);
+  font-weight: bold;
+}
+
+.reviews-text,
+.rating-text {
+  margin: 0;
+  color: var(--grey);
+  font-size: 15px;
+}
+
+.rating-text span{
+    font-weight: bold;
+}
+
+.col-2 {
+  margin-left: auto;
+  position: relative;
+}
+
+.col-2 > p{
+    text-align: right;
+}
+
+.tour-detail-btn{
+    border-radius: 5px;
+  align-self: center;
+  font-size: 13px;
+  padding: 1em 3em;
+  background-color: var(--button-purple);
+  color: white;
+  border: 1px solid white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.price-div{
+    text-align: right;
+}
+
+.price-txt{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.small-txt{
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: normal;
+}
